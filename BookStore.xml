@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "BookStore.dtd">
+<bookstore>
+<book id="B101">
+<title>Software Engineering</title>
+<author>Ian Sommerville</author>
+<publisher>Pearson</publisher>
+<price>550</price>
+<category>Engineering</category>
+<available>true</available>
+</book>
+
+
+<book id="B102">
+<title>Clean Code</title>
+<author>Robert C. Martin</author>
+<publisher>Prentice Hall</publisher>
+<price>450</price>
+<category>Programming</category>
+<available>false</available>
+</book>
+
+
+<book id="B103">
+<title>Introduction to Algorithms</title>
+<author>Thomas H. Cormen</author>
+<publisher>MIT Press</publisher>
+<price>700</price>
+<category>Computer Science</category>
+<available>true</available> 
+</book>
+
+</bookstore>
